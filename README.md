@@ -1,4 +1,4 @@
-### Segundo desafio de questões opcionais do curso Alura!
+### Segundo desafio de questões opcionais do curso Alura - Java: criando a sua primeira aplicação!
 
 - Crie um programa que solicite ao usuário digitar um número. Se o número for positivo, exiba "Número positivo", caso contrário, exiba "Número negativo".
 - Peça ao usuário para inserir dois números inteiros. Compare os números e imprima uma mensagem indicando se são iguais, diferentes, o primeiro é maior ou o segundo é maior.
